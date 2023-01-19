@@ -1,0 +1,67 @@
+Prénoms et Noms :
+Kevin Jobin (responsable)
+Bruce Bouchard
+François Dufour
+
+Numéro de dossier (NI):
+536777791
+536823910
+111145117
+
+Correction
+==========
+
+Fonctionnalités obligatoires
+----------------------------
+- Le déroulement du jeu et le dévoilement des cases sont adéquats
+- On peut choisir la taille de damier et le nombre de mines 
+- On peut démarrer une nouvelle partie en tout temps
+- On peut afficher les instructions du jeu
+- Le bouton quitter est fonctionnel (incluant un message de validation)
+- Un message annonce la victoire/défaite du joueur
+- La solution est affichée lors d'une défaite
+- Un compteur de tour est mis à jour
+- La sauvegarde et chargement de la partie sont fonctionnels
+
+Commentaires:
+
+Total: /60
+
+Fonctionnalités facultatives
+----------------------------
+
+IMPORTANT:
+Indiquez ici la liste des fonctionnalités (avec leur numéro et nom) que vous avez implémentées. 
+
+- # 0: Dévoilement en cascade des cases vides
+- # 1: Placer un drapeau avec le clic droit de la souris
+- # 3: Amélioration des graphiques (images de mines, chiffres de couleur, etc) 
+- # 4: Aﬀicher un chronomètre de temps de jeu
+- # 11: Ajouts d’effets sonores
+
+- etc.
+
+Commentaires:
+
+Total: /30
+
+
+Qualité du code
+---------------
+- Respect des normes de programmation
+- Documentation du programme
+
+Commentaires:
+
+Total: /10
+
+
+Pénalités
+---------
+
+
+Commentaires du correcteur
+--------------------------
+
+
+Total : /100
